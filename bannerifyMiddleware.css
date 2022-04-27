@@ -1,0 +1,29 @@
+div.col {
+    margin: 29px 10px;
+}
+
+.download-all {
+    display: block;
+    width: fit-content;
+    padding: 0 10px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #1CABE2;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.download {
+    display: block;
+    font-size: 13px;
+    width: 80px;
+    height: 20px;
+    line-height: 20px;
+    color: #666666;
+    border: 1px solid #333333;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+}

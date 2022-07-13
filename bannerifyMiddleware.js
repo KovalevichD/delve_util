@@ -10,7 +10,7 @@ window.addEventListener('load', () => {
 
     grid.insertAdjacentHTML('afterbegin', `<a download="ads" class="download-all" href="${source}/_zips/all.zip">Download ads</a>`)
     grid.insertAdjacentHTML('afterbegin', `
-            <a download="backups" class="download-all" href="${source}/_backups/all.zip">Download backups</a>`
+            <a download="backups" style="left: 150px" class="download-all" href="${source}/_backups/all.zip">Download backups</a>`
     )
 
     iframes.forEach(i => {
